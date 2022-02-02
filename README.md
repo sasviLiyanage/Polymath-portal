@@ -1,1 +1,1 @@
-Day care management letter generation system
+Day care management and letter generation system
